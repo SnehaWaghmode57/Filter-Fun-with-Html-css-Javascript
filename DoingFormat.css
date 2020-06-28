@@ -1,0 +1,26 @@
+canvas{
+    width: 500px;
+    height: 300px;
+    border: 2px solid black;
+}
+
+body {
+    background-image: url('https://i.pinimg.com/originals/5c/60/0b/5c600b0b0c23190403cbfcf8a62d8571.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+  }
+
+  .blur
+  {
+    border: 2px solid black;
+     width: 600px;
+     height: 600px;
+     margin-left: 350px;
+     background-color: rgb(255, 255, 255);
+  }
+  
+
+  
+
